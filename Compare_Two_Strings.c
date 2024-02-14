@@ -8,9 +8,8 @@ int main(){
     c=strcmp(s1,s2);
     if(c==0){
         printf("Strings are Equal");
-        
     }
     else{
-        printf("Strings are not Equal");
+       printf("Strings are not Equal"); 
     }
 }
